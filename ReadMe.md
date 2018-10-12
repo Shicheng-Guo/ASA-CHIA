@@ -11,7 +11,6 @@
 
 ### <font color=#FF6347 >ASA-CHIA 定制芯片真实测试数据</font>
 * ASA-CHIA 定制版 10个男性样本 + 10个女性样本测试数据
-    * 下载链接如下：
     * 链接：[https://pan.baidu.com/s/11D5fbIQWqG6lY9J0SLXTTw](https://pan.baidu.com/s/11D5fbIQWqG6lY9J0SLXTTw) 
     * 密码：5uep
 
@@ -20,12 +19,8 @@
 
 ### <font color=#FF6347 >ASA-MD 芯片真实测试数据</font>
 * ASA-MD 24个样本测试数据
-    * 下载链接如下：
     * 链接：[https://pan.baidu.com/s/1FdgsU-524BImBonkmPx_7A](https://pan.baidu.com/s/1FdgsU-524BImBonkmPx_7A) 
     * 密码：ifpx
-
-* 欢迎大家下载测试
-
 
 ### <span id = "jump">ASA 标准版本测试数据</span>
 
@@ -50,16 +45,6 @@
     * 链接: [https://pan.baidu.com/s/1boKul2eXfzgq4dU74JiGmA](https://pan.baidu.com/s/1boKul2eXfzgq4dU74JiGmA)
     * 密码: bd2a
     * 数据格式见【ASA 基因型数据格式白皮书】
-
-
-
-
-### TODO
-* ASA-CHIA pro & other algorithm
-* 其他黑科技
-
-### 促销活动
-
 
 
   [1]: https://github.com/bioguoke/RS_white-paper
