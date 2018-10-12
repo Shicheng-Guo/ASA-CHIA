@@ -14,9 +14,6 @@ ASA芯片上所有的位点重新与基因组比对，将所有SNP位点转换�
     * 链接：[https://pan.baidu.com/s/11D5fbIQWqG6lY9J0SLXTTw](https://pan.baidu.com/s/11D5fbIQWqG6lY9J0SLXTTw) 
     * 密码：5uep
 
-* 欢迎大家下载测试
-
-
 ### <font color=#FF6347 >ASA-MD 芯片真实测试数据</font>
 * ASA-MD 24个样本测试数据
     * 链接：[https://pan.baidu.com/s/1FdgsU-524BImBonkmPx_7A](https://pan.baidu.com/s/1FdgsU-524BImBonkmPx_7A) 
