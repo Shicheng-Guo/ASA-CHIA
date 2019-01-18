@@ -17,7 +17,7 @@ ASA芯片上所有的位点重新与基因组比对，将所有SNP位点转换�
     * 链接: [https://pan.baidu.com/s/1CEM0p5cKl5PZMer1j7bYIQ](https://pan.baidu.com/s/1CEM0p5cKl5PZMer1j7bYIQ)
     * 密码: 6ccq
 * 24个样本ASA标准版的plink格式数据
-    * 链接: [https://pan.baidu.com/s/1V1Fy0K7bkD052DQZKkqUiQ](https://pan.baidu.com/s/1V1Fy0K7bkD052DQZKkqUiQ)
+    * 链接: [https://pan.baidu.com/s/1fyhLeAEWITe95TOCph82GQ](https://pan.baidu.com/s/1fyhLeAEWITe95TOCph82GQ)
     * 密码: av4j
     * 数据格式为plink
 * 20个样本的GSA-Multi Disease 2.0芯片数据
