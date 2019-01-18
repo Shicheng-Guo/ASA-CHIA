@@ -1,5 +1,5 @@
 ----------
-果壳生物官方网站：[http://www.bioguoke.com/](http://www.bioguoke.com/)
+果壳生物网站：[http://www.bioguoke.com/](http://www.bioguoke.com/)
 
 ### ASA (Asian Screening Array) 标准版本芯片位点信息
 * ASA 基因型数据格式白皮书
